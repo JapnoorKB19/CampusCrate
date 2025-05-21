@@ -1,5 +1,5 @@
 ﻿
-# College Bazaar
+# CampusCrate
 
 This Project aims to connect University students to sell and buy their used items. Sellers get a convenient platform to list their items, and Buyers get books and other articles at low prices, along with a chat feature to clear any queries they may have with the product.
 
@@ -25,66 +25,6 @@ Used to setup text Chat Application between Buyer and the seller.
 
 - #### JWT
 Used this Authenctication System to make sure the user is logged in before accessing any personal info on the site
-
-
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/yashjoshi-dotcom/College_Bazaar.git
-```
-
-Go to the project directory
-
-```bash
-  cd College_Bazaar
-```
-
-- Split the terminal to run both frontend and backend conviniently.
-
-To Open frontend directory.
-```bash
-cd .\frontend\
-```
-To Open backend directory.
-
-```bash
-cd .\backend\
-```
-
-
-Install dependencies on both frontend and backend folder
-
-```bash
-  npm install
-```
-
-Start the frontend React application
-
-```bash
-  npm run start
-```
-Start the backend Server 
-
-```bash
-  nodemon app.js
-```  
-Please make sure you have config.env file setup in the backend directory. The Format is demostrated in config.env.example file.
-
-## Demo Video
-
-
-https://user-images.githubusercontent.com/77540753/197020778-9bb78963-4498-43f7-9ddc-423d0c6dbbc9.mov
-
-
-## Authors
-This Project would not have been possible without the immense  help of following people.
-- [@Yuvraj](https://github.com/YUVRAJg37)
-- [@Tanush Chaudhary](https://github.com/Tanush15)
-- [@Yash Joshi](https://github.com/yashjoshi-dotcom)
 
 
 ## Roadmap
