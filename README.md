@@ -30,6 +30,6 @@ Used this Authenctication System to make sure the user is logged in before acces
 ## Roadmap
 
 - Additional Sign in Options with Google and Github
-- Adding Lost and FOund Item Section
+- Adding Lost and Found Item Section
 - Adding Wishlist functionality
 
